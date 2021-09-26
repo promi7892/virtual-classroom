@@ -1,0 +1,20 @@
+.header {
+	text-align: center;
+}
+
+.logo {
+	height: 100px;
+}
+.hero-details {
+	width: 70%;
+	margin: auto;
+	padding: 30px 20px;
+	backdrop-filter: blur(16px) saturate(180%);
+	-webkit-backdrop-filter: blur(16px) saturate(180%);
+	background-color: rgba(78, 93, 122, 0.75);
+	border-radius: 12px;
+	border: 1px solid rgba(255, 255, 255, 0.125);
+	box-shadow: 7px 7px 17px 0px rgba(50, 50, 50, 0.75);
+	color: rgb(51, 47, 47);
+	font-weight: bold;
+}

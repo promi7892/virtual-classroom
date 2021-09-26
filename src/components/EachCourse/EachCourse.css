@@ -1,0 +1,32 @@
+.course-img {
+	border-radius: 50%;
+	height: 300px;
+	width: 300px;
+	text-align: center;
+	padding: 0 50px;
+}
+
+.btn-regular {
+	background-color: rgb(42, 181, 236);
+	padding: 10px 0;
+	width: 100%;
+	color: #fff;
+	border: none;
+	font-size: 16px;
+	border-radius: 5px;
+	cursor: pointer;
+	align-items: center;
+	font-weight: bold;
+}
+
+.course {
+	border: 1px solid lightgray;
+	width: 400px;
+	padding: 20px;
+	box-shadow: -3px 9px 17px 0px rgba(50, 50, 50, 0.27);
+	border-radius: 10px;
+}
+
+.icon {
+	padding-right: 10px;
+}

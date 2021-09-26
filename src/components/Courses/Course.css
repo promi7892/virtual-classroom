@@ -1,0 +1,16 @@
+.shop-container {
+	margin-top: 5%;
+	display: grid;
+	grid-template-columns: 3fr 1fr;
+}
+.course-container {
+	display: grid;
+	grid-template-columns: 3fr 1fr;
+	grid-gap: 15px;
+	border-right: 1px solid lightgray;
+	margin-right: 5px;
+	margin-left: 50px;
+}
+.light-text {
+	color: rgb(66, 66, 66);
+}

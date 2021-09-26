@@ -1,0 +1,27 @@
+.cart-card {
+	margin-left: 5px;
+	border: 1px solid lightgray;
+	padding: 10px 30px;
+	width: 80%;
+	list-style: none;
+}
+.class-details {
+	padding-right: 5px;
+}
+.book-name {
+	display: block;
+	padding: 4px;
+}
+.buy-now {
+	background-color: rgb(42, 181, 236);
+	padding: 10px 0;
+	width: 100%;
+	color: #fff;
+	border: none;
+	font-size: 16px;
+	border-radius: 5px;
+	cursor: pointer;
+	align-items: center;
+	font-weight: bold;
+	margin-left: 5px;
+}

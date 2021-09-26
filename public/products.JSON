@@ -1,0 +1,164 @@
+[
+	{
+		"name": "Web Scraping Course in Python: BS4, Selenium and Scrapy",
+		"description": "Become an expert in web scraping with 4 projects in Beautiful Soup and Selenium and Scrapy",
+		"key": 1,
+		"rating": 4.6,
+		"sold": 17,
+		"enrolled": "135 students",
+		"author": "Frank Andrade",
+		"updated": 2021,
+		"language": "English",
+		"content": "https://img-c.udemycdn.com/course/480x270/4202866_e521.jpg",
+		"price": 105.45
+	},
+
+	{
+		"name": "2021 Complete Python Bootcamp From Zero to Hero in Python",
+		"description": "Learn Python like a Professional Start from the basics and go all the way to creating your own applications and games",
+		"key": 2,
+		"rating": 4.5,
+		"sold": 177,
+		"enrolled": "1374027 students",
+		"author": " Jose Portilla",
+		"updated": 2021,
+		"language": "English, German, Italian, Polish,Spanish",
+		"content": "https://img-c.udemycdn.com/course/480x270/567828_67d0.jpg",
+		"price": 85.45
+	},
+
+	{
+		"name": "The Web Developer Bootcamp 2021",
+		"description": "COMPLETELY REDONE - The only course you need to learn web development - HTML, CSS, JS, Node, and More!",
+		"key": 3,
+		"rating": 4,
+		"sold": 152,
+		"enrolled": "519 students",
+		"author": " Maximilian Schwarzmüller",
+		"updated": 2020,
+		"language": "English, French",
+		"content": "https://img-c.udemycdn.com/course/480x270/4133968_ec8a_4.jpg",
+		"price": 55.45
+	},
+
+	{
+		"name": "Angular - The Complete Guide (2021 Edition)",
+		"description": "Master Angular 12 and build awesome, reactive web apps with the successor of Angular.js",
+		"key": 4,
+		"rating": 4.5,
+		"sold": 177,
+		"enrolled": "1374027 students",
+		"author": " Jose Portilla",
+		"updated": 2021,
+		"language": "English, German,Spanish",
+		"content": "https://img-c.udemycdn.com/course/480x270/756150_c033_2.jpg",
+		"price": 89.94
+	},
+	{
+		"name": "Modern React with Redux",
+		"description": "Master React and Redux with React Router, Webpack, and Create-React-App. Includes Hooks!",
+		"key": 5,
+		"rating": 4.1,
+		"sold": 243915,
+		"enrolled": "7,016 students",
+		"author": " Stephen Grider",
+		"updated": 2021,
+		"language": "English, German,Spanish,German",
+		"content": "https://img-c.udemycdn.com/course/480x270/705264_caa9_11.jpg",
+		"price": 45.5
+	},
+
+	{
+		"name": "React - The Complete Guide (incl Hooks, React Router, Redux)",
+		"description": "Dive in and learn React.js from scratch! Learn Reactjs, Hooks, Redux, React Routing, Animations, Next.js and way more!!",
+		"key": 6,
+		"rating": 4.7,
+		"sold": 76715,
+		"enrolled": "4,016 students",
+		"author": " Academind by Maximilian Schwarzmüller, Maximilian Schwarzmüller",
+		"updated": 2021,
+		"language": "English, French",
+		"content": "https://img-c.udemycdn.com/course/480x270/1362070_b9a1_2.jpg",
+		"price": 65.99
+	},
+
+	{
+		"name": "Java Programming Masterclass covering Java 11 & Java 17",
+		"description": "Learn Java In This Course And Become a Computer Programmer. Obtain valuable Core Java Skills And Java Certification",
+		"key": 7,
+		"rating": 4.5,
+		"sold": 148042,
+		"enrolled": "610,441 students",
+		"author": " Tim Buchalka, Tim Buchalka's Learn Programming Academy",
+		"updated": 2021,
+		"language": "English, French",
+		"content": "https://img-c.udemycdn.com/course/480x270/533682_c10c_4.jpg",
+		"price": 75.99
+	},
+
+	{
+		"name": "The Complete Node.js Developer Course (3rd Edition)",
+		"description": "Learn Node.js by building real-world applications with Node JS, Express, MongoDB, Jest, and more!",
+		"key": 8,
+		"rating": 4.8,
+		"sold": 60572,
+		"enrolled": "247,101  students",
+		"author": "  Andrew Mead, Rob Percival",
+		"updated": 2020,
+		"language": "English, French",
+		"content": "https://img-c.udemycdn.com/course/480x270/922484_52a1_8.jpg",
+		"price": 85.99
+	},
+	{
+		"name": "Microfrontends with React: A Complete Developer's Guide",
+		"description": "Build incredibly scalable apps with a microfrontend architecture",
+		"key": 9,
+		"rating": 4.2,
+		"sold": 5072,
+		"enrolled": "457,101  students",
+		"author": "  Stephen Grider",
+		"updated": 2021,
+		"language": "English, French",
+		"content": "https://img-c.udemycdn.com/course/480x270/3604434_7884_3.jpg",
+		"price": 59.99
+	},
+	{
+		"name": "Coding For Beginners 2 - Get Started With Web Development!",
+		"description": "Build incredibly scalable apps with a microfrontend architecture",
+		"key": 10,
+		"rating": 4.2,
+		"sold": 7264,
+		"enrolled": "18,337 students",
+		"author": "  Applause Interactive",
+		"updated": 2021,
+		"language": "English, French",
+		"content": "https://img-c.udemycdn.com/course/480x270/2646182_0e72_6.jpg",
+		"price": 45.5
+	},
+	{
+		"name": "Learn Basic HTML, CSS & JavaScript (Typescript) with Svelte",
+		"description": "Learn the basics of Web Development Fast and save time with HTML, CSS, Typescript and Svelte.",
+		"key": 11,
+		"rating": 4.2,
+		"sold": 7264,
+		"enrolled": "23,507 students",
+		"author": "  CodeBrains.IO Tech Training",
+		"updated": 2021,
+		"language": "English, French",
+		"content": "https://img-c.udemycdn.com/course/480x270/4265636_4bdb.jpg",
+		"price": 125.5
+	},
+	{
+		"name": "HTML, CSS, & Bootstrap - Certification Course for Beginners",
+		"description": "A Complete Guide for Beginners interested in learning HTML, CSS, & Bootstrap for Building Stylish, Responsive Web Pages.",
+		"key": 12,
+		"rating": 4.2,
+		"sold": 50743,
+		"enrolled": " 1,221,383 students",
+		"author": " YouAccel Training",
+		"updated": 2021,
+		"language": "English, French",
+		"content": "https://img-c.udemycdn.com/course/480x270/2410998_275d_3.jpg",
+		"price": 150.5
+	}
+]
